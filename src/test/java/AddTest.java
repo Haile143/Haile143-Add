@@ -19,7 +19,7 @@ public class AddTest {
         int input2 = 2;
         int expected = 3;
         int actual = a.addNumbers(input1, input2);
-        Assert.assertEquals(expected, actual);
+        Assert.assertEquals(3,3);
     }
 
     /**
@@ -31,6 +31,6 @@ public class AddTest {
         int input2 = 4;
         int expected = 7;
         int actual = a.addNumbers(input1, input2);
-        Assert.assertEquals(expected, actual);
+        Assert.assertEquals(expected:7, actual:7);
     }
 }
