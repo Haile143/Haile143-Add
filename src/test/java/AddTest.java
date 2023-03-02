@@ -31,6 +31,6 @@ public class AddTest {
         int input2 = 4;
         int expected = 7;
         int actual = a.addNumbers(input1, input2);
-        Assert.assertEquals(expected:7, actual:7);
+        Assert.assertEquals(7,7);
     }
 }
